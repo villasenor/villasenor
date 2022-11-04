@@ -1,4 +1,4 @@
-### Hi there <a rel="me" href="https://hachyderm.io/@MiaDoesTech">👋</a>
+### Hi there <a href="https://hachyderm.io/@MiaDoesTech" rel="me">👋</a>
 
 <!--
 **villasenor/villasenor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
